@@ -65,6 +65,13 @@
       "description": "Build a REST API with FastAPI, including book creation, retrieval, updates, and deletion.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-05"
+    },
+    {
+      "id": "testing-csharp-algorithms",
+      "title": "Testing C# Algorithms with xUnit",
+      "description": "Practice testing a C# algorithm with xUnit, including typical, boundary, and invalid inputs.",
+      "path": "assignments/testing-csharp-algorithms",
+      "dueDate": "2026-11-05"
     }
   ]
 }
